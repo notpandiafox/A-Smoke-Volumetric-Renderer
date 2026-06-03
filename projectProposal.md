@@ -3,9 +3,10 @@ Libraries and Framwork needed:
   2. GFLW
   3. GLAD/GLED
   4. OpenGL
-  5. GLM (OpenGL Mathematics
+  5. GLM (OpenGL Mathematics)
   6. CUDA Thrust
   7. Dear ImGui
+  8. nanoVDB
 
 Issues that will be encountered:
   1. One issue that I will encounter is the setup, making sure that the CUDA toolkit version, compiler and the blender GPU will all be compatitable.
