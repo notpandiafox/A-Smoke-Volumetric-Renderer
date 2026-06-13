@@ -92,11 +92,11 @@ This removes the executable, the rendered frames But keeps the video.
 
 ## Results
 
-<video src="https://github.com/UCR-CSEE147/final-project-volumetricdaddy/raw/main/smoke.mp4" controls width="600"></video>
+
 
 ## Presenation of my work
 
-<video src="https://github.com/UCR-CSEE147/final-project-volumetricdaddy/raw/main/smoke.mp4" controls width="600"></video>
+https://drive.google.com/drive/u/1/folders/1ZrwavUFYe6VNoNC7LzeQcNPQHf-BrfRM
 
 ## Problems faced
 
